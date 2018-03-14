@@ -1,5 +1,1 @@
 hello git
-git world
-wondow hello1
-window hello2
-stupid boss
